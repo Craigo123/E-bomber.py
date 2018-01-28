@@ -9,7 +9,7 @@ before opening the tool type this command :. chmod +x E-bomber.py
 #Use it at your own risk !!!
 ==============
 INSTALL
-grit https://github.com/Craigo123/E-bomber.py.git
+Git https://github.com/Craigo123/E-bomber.py.git
 
 # ==========================================================
 # IF YOU CANT LOGIN WITH GMAIL 
